@@ -12,7 +12,8 @@ SOURCE_URLS = [
     "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.roku.txt",
     "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.vivo.txt",
     "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.oppo-realme.txt",
-    "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.xiaomi.txt"# 纯域名格式示例
+    "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.xiaomi.txt",
+    "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.winoffice.txt"# 纯域名格式示例
 ]
 
 # 本地源文件 (在你的仓库根目录下创建一个 data.txt)
