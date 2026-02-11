@@ -1,0 +1,37 @@
+name: Ruleset Auto Update
+
+on:
+  schedule:
+    - cron: '0 22 * * *' # 每天北京时间早上 6 点自动运行
+  workflow_dispatch:    # 支持手动点击运行
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 必须赋予写入权限以提交 ruleset.yaml
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run Converter
+        run: python convert.py
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          # 使用 -A 自动添加所有变化，包括新创建的文件
+          git add -A
+          # 检查是否有内容变更，有则提交
+          if ! git diff --cached --quiet; then
+            git commit -m "Auto-update ruleset: $(date +'%Y-%m-%d')"
+            git push
+          else
+            echo "No changes to commit"
+          fi
