@@ -21,6 +21,7 @@ LOCAL_FILES = ["data.txt"]
 
 # 输出文件名
 OUTPUT_FILE = "antiad.yaml"
+README_FILE = "README.md"  # <--- 之前报错是因为这里可能缺失或拼写错误
 # --- --- --- ---
 
 def fetch_content(source):
