@@ -1,5 +1,5 @@
-# Update Time: 2026-02-21 18:39:17 UTC
-# Total Domains: 9441
+# Update Time: 2026-02-22 18:39:36 UTC
+# Total Domains: 9442
 
 payload:
   - '00006d6315684ae69ceced81238c2e32.fp.measure.office.com'
@@ -7947,6 +7947,7 @@ payload:
   - 'lockhart.logs.roku.com'
   - 'log-abroad.avlyun.sec.miui.com'
   - 'log-boot.capcutapi.com'
+  - 'log-boot.tiktokv.com'
   - 'log-dra.platform.hihonorcloud.com'
   - 'log-drcn.platform.hihonorcloud.com'
   - 'log-dre.platform.hihonorcloud.com'
