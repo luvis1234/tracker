@@ -1,5 +1,5 @@
-# Update Time: 2026-02-26 18:57:17 UTC
-# Total Domains: 9442
+# Update Time: 2026-02-27 18:50:11 UTC
+# Total Domains: 9453
 
 payload:
   - '00006d6315684ae69ceced81238c2e32.fp.measure.office.com'
@@ -6068,6 +6068,14 @@ payload:
   - 'conn3.coloros.com'
   - 'conn4.coloros.com'
   - 'conn5.coloros.com'
+  - 'connect-dra.dbankcloud.cn'
+  - 'connect-dra.map.dbankcloud.com'
+  - 'connect-drcn.dbankcloud.cn'
+  - 'connect-dre.dbankcloud.cn'
+  - 'connect-dre.map.dbankcloud.com'
+  - 'connect-drru.dbankcloud.cn'
+  - 'connect-drru.hispace.dbankcloud.cn'
+  - 'connect-drru.hispace.dbankcloud.ru'
   - 'console.admin.xmpush.xiaomi.com'
   - 'controller.india.xiaomi.com'
   - 'cooper.logs.roku.com'
@@ -8537,6 +8545,7 @@ payload:
   - 'obus-dc-us.heytapmobile.com'
   - 'obus-dc10-cn.heytapmobi.com'
   - 'obus-dc121100-sg.heytapmobile.com'
+  - 'obus-dc136101-cn.heytapmobi.com'
   - 'obus-dc2-cn.heytapmobi.com'
   - 'obus-dc2-in.heytapmobile.com'
   - 'obus-dc2-sg.heytapmobile.com'
@@ -8553,6 +8562,8 @@ payload:
   - 'obus-dctech-cn.heytapmobi.com'
   - 'obus-dctech-in.heytapmobile.com'
   - 'obus-dctech-sg.heytapmobile.com'
+  - 'obus-dcyitai-cn.heytapmobi.com'
+  - 'obus-dcyitai-in.heytapmobi.com'
   - 'obus-in.dc.heytapmobile.com'
   - 'obus-jssdk-cn.heytapmobi.com'
   - 'obus-jssdk-fr.heytapmobile.com'
