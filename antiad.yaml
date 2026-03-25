@@ -1,5 +1,5 @@
-# Update Time: 2026-03-24 19:07:12 UTC
-# Total Domains: 12383
+# Update Time: 2026-03-25 18:59:50 UTC
+# Total Domains: 12382
 
 payload:
   - '00006d6315684ae69ceced81238c2e32.fp.measure.office.com'
@@ -8351,7 +8351,6 @@ payload:
   - 'cname-in-ctdbonrt-stsdk.vivoglobal.com'
   - 'cname-sin01-stsdk09.vivoglobal.com'
   - 'cnames.raps.ravm.tv'
-  - 'cnbj1.fds.api.xiaomi.com'
   - 'cnc.data.game.xiaomi.com'
   - 'co-cota.vivoglobal.com'
   - 'co-domaincfg.vivoglobal.com'
