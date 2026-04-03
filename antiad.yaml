@@ -1,5 +1,5 @@
-# Update Time: 2026-04-02 19:01:08 UTC
-# Total Domains: 12986
+# Update Time: 2026-04-03 18:52:31 UTC
+# Total Domains: 12989
 
 payload:
   - '00006d6315684ae69ceced81238c2e32.fp.measure.office.com'
@@ -7029,6 +7029,8 @@ payload:
   - 'adinsight.api.sandbox.bingads.microsoft.com'
   - 'adinstantpage16-normal-useastred.tiktokv.eu'
   - 'adlibrary.ads.microsoft.com'
+  - 'adlog.vivo.com'
+  - 'adlog.vivo.com.cn'
   - 'admon-api.acr.roku.com'
   - 'admon.acr.roku.com'
   - 'admon.ca.acr.roku.com'
@@ -8067,6 +8069,7 @@ payload:
   - 'browsercfg-drcn.cloud.dbankcloud.cn'
   - 'browserfiles.heytapmobile.com'
   - 'bsf.sc.heytapmobile.com'
+  - 'bsp-di-in.heytapmobile.com'
   - 'bsp.misc.pandora.xiaomi.com'
   - 'bsp.sasdc.pandora.xiaomi.com'
   - 'bss.pandora.xiaomi.com'
