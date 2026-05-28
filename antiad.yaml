@@ -1,5 +1,5 @@
-# Update Time: 2026-05-27 20:21:21 UTC
-# Total Domains: 26244
+# Update Time: 2026-05-28 20:27:09 UTC
+# Total Domains: 26246
 
 payload:
   - '00005e80273f434a970114ce41e5bb97.fp.measure.office.com'
@@ -16000,12 +16000,14 @@ payload:
   - 'ads-frontier.tiktok.com'
   - 'ads-ie.tiktokw.eu'
   - 'ads-ru.tiktok.com'
+  - 'ads-sg.business-tiktok.com'
   - 'ads-sg.tiktok.com'
   - 'ads-ttp2.tiktokw.eu'
   - 'ads-ttp2.us.tiktok.com'
   - 'ads-us-east-1.delivery.roku.com'
   - 'ads-us-east-2.delivery.roku.com'
   - 'ads-us-west-2.delivery.roku.com'
+  - 'ads-va.business-tiktok.com'
   - 'ads.beta.roku.com'
   - 'ads.bing.com'
   - 'ads.bingads.microsoft.com'
