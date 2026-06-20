@@ -1,5 +1,5 @@
-# Update Time: 2026-06-19 19:51:48 UTC
-# Total Domains: 3011
+# Update Time: 2026-06-20 19:40:51 UTC
+# Total Domains: 3016
 
 payload:
   - '0001-metrics1-data-hicloud-com.geac.dbankedge.cn'
@@ -997,6 +997,7 @@ payload:
   - 'err.up.vivoglobal.com'
   - 'esp.logs.roku.com'
   - 'etl.xlmc.sec.miui.com'
+  - 'eu-album-api.vivoglobal.com'
   - 'eu-cota.vivoglobal.com'
   - 'eu-domaincfg.vivoglobal.com'
   - 'eu-errup.vivoglobal.com'
@@ -1601,6 +1602,7 @@ payload:
   - 'logonext.tv.kuyun.com'
   - 'logs.dev.sr.roku.com'
   - 'logs.n.xiaomi.com'
+  - 'logs.qa.ap.int.roku.com'
   - 'logs.roku.com'
   - 'logs.sr.roku.com'
   - 'logserver.nzxcloud.cn'
@@ -2648,6 +2650,7 @@ payload:
   - 't-ring-trafficshield.msedge.net'
   - 't-ring.msedge.net'
   - 't-s1-ring.msedge.net'
+  - 't-s2-ring.msedge.net'
   - 't.app.xiaomi.com'
   - 't.track.ad.xiaomi.com'
   - 't1.a.market.xiaomi.com'
@@ -2762,6 +2765,7 @@ payload:
   - 'tr-album-api.vivoglobal.com'
   - 'tr-cota.vivoglobal.com'
   - 'tr-domaincfg.vivoglobal.com'
+  - 'tr-err-up.vivoglobal.com'
   - 'tr-gdpr-vgc-datacenter.vivoglobal.com'
   - 'tr-onrt-stsdk.vivoglobal.com'
   - 'tr-ort-stsdk.vivoglobal.com'
@@ -2809,7 +2813,6 @@ payload:
   - 'tvepg.pandora.xiaomi.com'
   - 'tyler.logs.roku.com'
   - 'u-id.cpc.heytapmobile.com'
-  - 'uaenorth-0.in.applicationinsights.azure.com'
   - 'uapi.ads.heytapmobi.com'
   - 'uba.huaweicloud.com'
   - 'ubacollect-drcn.cloud.dbankcloud.cn'
@@ -2844,6 +2847,7 @@ payload:
   - 'url2696.ads.tiktok.com'
   - 'us-east4.ads.gcp.roku.com'
   - 'us-east4.dev.ads.gcp.roku.com'
+  - 'us-ic3.events.data.microsoft.com'
   - 'us-mesh-events-data-leafs.trafficmanager.net'
   - 'us-mesh.events.data.microsoft.com'
   - 'us-mobile.events.data.microsoft.com'
@@ -2873,7 +2877,6 @@ payload:
   - 'usgovarizona-0.in.applicationinsights.azure.us'
   - 'usgovvirginia-0.in.applicationinsights.azure.us'
   - 'usgovvirginia-1.in.applicationinsights.azure.us'
-  - 'usgovvirginia-global.in.applicationinsights.azure.us'
   - 'utm.sankei.jp.msn.com'
   - 'v10-win.vortex.data.trafficmanager.net'
   - 'v10.events.data.microsoft.com'
@@ -2909,6 +2912,7 @@ payload:
   - 'vstelemetry.trafficmanager.net'
   - 'w.pandora.xiaomi.com'
   - 'wallpaper-service-sg.allawnos.com'
+  - 'wan.measure.office.com'
   - 'wap.game.xiaomi.com'
   - 'watson.alpha.telemetry.microsoft.com'
   - 'watson.df.telemetry.microsoft.com'
@@ -2960,6 +2964,7 @@ payload:
   - 'www.finosfin.com'
   - 'www.hizonetech.com'
   - 'www.kuyun.com'
+  - 'www.measure.office.com'
   - 'www.miui.net'
   - 'www.msads.net'
   - 'www.qwapi.com'
