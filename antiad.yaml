@@ -1,5 +1,5 @@
-# Update Time: 2026-06-26 19:51:57 UTC
-# Total Domains: 3016
+# Update Time: 2026-06-27 19:23:58 UTC
+# Total Domains: 3013
 
 payload:
   - '0001-metrics1-data-hicloud-com.geac.dbankedge.cn'
@@ -65,6 +65,7 @@ payload:
   - 'ad.intl.xiaomi.com.edgesuite.net'
   - 'ad.intl.xiaomi.com.ksyna.net'
   - 'ad.mi.com'
+  - 'ad.miui.com'
   - 'ad.msn.com'
   - 'ad.prod.rpay.int.roku.com'
   - 'ad.qa.ap.int.roku.com'
@@ -142,10 +143,8 @@ payload:
   - 'ads.tiktok.in'
   - 'ads.tiktok.tv'
   - 'ads.us.tiktok.com'
-  - 'ads1.msads.net'
   - 'ads1.msn.com'
   - 'ads16-normal-useastred.tiktokw.eu'
-  - 'ads2.msads.net'
   - 'adsdk.microsoft.com'
   - 'adsdk.trafficmanager.net'
   - 'adsdk.vivo.com.cn'
@@ -1221,8 +1220,6 @@ payload:
   - 'gui-server-us.allawnos.com'
   - 'guif-eu.coloros.com'
   - 'guif.coloros.com'
-  - 'h1.msn.com'
-  - 'h2.msn.com'
   - 'h4g3z1-native.apple.web.app'
   - 'h4g3z1-native.huawei.web.app'
   - 'h4g3z1-native.oppo-realme.web.app'
@@ -2028,6 +2025,7 @@ payload:
   - 'mssdk32-normal-zr-useast1a.tiktokv.com'
   - 'mssdk32-normal.capcutapi.com'
   - 'mustang.logs.roku.com'
+  - 'mx-album-api.vivoglobal.com'
   - 'mx-cota.vivoglobal.com'
   - 'mx-domaincfg.vivoglobal.com'
   - 'mx-err-up.vivoglobal.com'
@@ -2341,6 +2339,7 @@ payload:
   - 'resolver.mi.xiaomi.com'
   - 'resolver.msg.global.xiaomi.net'
   - 'responses.df.telemetry.microsoft.com'
+  - 'reward.ad.miui.com'
   - 'richmond.logs.roku.com'
   - 'rmads.eu.msn.com'
   - 'rmads.msn.com'
@@ -2847,7 +2846,6 @@ payload:
   - 'url2696.ads.tiktok.com'
   - 'us-east4.ads.gcp.roku.com'
   - 'us-east4.dev.ads.gcp.roku.com'
-  - 'us-ic3.events.data.microsoft.com'
   - 'us-mesh-events-data-leafs.trafficmanager.net'
   - 'us-mesh.events.data.microsoft.com'
   - 'us-mobile.events.data.microsoft.com'
@@ -2966,7 +2964,6 @@ payload:
   - 'www.kuyun.com'
   - 'www.measure.office.com'
   - 'www.miui.net'
-  - 'www.msads.net'
   - 'www.qwapi.com'
   - 'www.ravm.tv'
   - 'www.telecommandsvc.microsoft.com'
