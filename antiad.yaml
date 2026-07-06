@@ -1,5 +1,5 @@
-# Update Time: 2026-07-05 19:20:48 UTC
-# Total Domains: 3015
+# Update Time: 2026-07-06 20:00:59 UTC
+# Total Domains: 3016
 
 payload:
   - '0001-metrics1-data-hicloud-com.geac.dbankedge.cn'
@@ -110,6 +110,7 @@ payload:
   - 'ads-cf-us-east-1.dev.delivery.roku.com'
   - 'ads-cf-us-west-2.delivery.roku.com'
   - 'ads-drcn.platform.hihonorcloud.com'
+  - 'ads-dre.platform.hihonorcloud.com'
   - 'ads-drru.cloud.huawei.ru'
   - 'ads-drru.platform.hihonorcloud.com'
   - 'ads-frontier.tiktok.com'
