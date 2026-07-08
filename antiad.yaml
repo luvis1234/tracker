@@ -1,5 +1,5 @@
-# Update Time: 2026-07-07 19:58:18 UTC
-# Total Domains: 3016
+# Update Time: 2026-07-08 19:35:39 UTC
+# Total Domains: 3020
 
 payload:
   - '0001-metrics1-data-hicloud-com.geac.dbankedge.cn'
@@ -118,6 +118,7 @@ payload:
   - 'ads-marketing-vivofs.vivo.com.cn'
   - 'ads-marketing-vivofs.vivo.com.cn.ctdns.cn'
   - 'ads-msn-com-profile.trafficmanager.net'
+  - 'ads-ru.tiktok.com'
   - 'ads-sg.business-tiktok.com'
   - 'ads-sg.tiktok.com'
   - 'ads-ttp2.tiktokw.eu'
@@ -627,6 +628,7 @@ payload:
   - 'ch-mobile.events.data.microsoft.com'
   - 'ch1b.bingads.microsoft.com'
   - 'channels.acr.roku.com'
+  - 'chc-visio-telemetry.officeapps.live.com'
   - 'child.sec.miui.com'
   - 'chinaeast2-0.in.applicationinsights.azure.cn'
   - 'chinaeast3-global.in.applicationinsights.azure.cn'
@@ -1922,6 +1924,7 @@ payload:
   - 'mon16-normal-c-useast2a.tiktokv.com'
   - 'mon16-normal-no1a.tiktokv.eu'
   - 'mon16-normal-no1a.tiktokv.eu.dvaitas.lt'
+  - 'mon16-normal-no1a.tiktokv.eu.numericable.fr'
   - 'mon16-normal-sg.capcutapi.com'
   - 'mon16-normal-us-ttp.capcutapi.us'
   - 'mon16-normal-useast1a.tiktokv.com'
@@ -2950,6 +2953,7 @@ payload:
   - 'westus2-5.in.applicationinsights.azure.com'
   - 'westus2-global.in.applicationinsights.azure.com'
   - 'westus3-1.in.applicationinsights.azure.com'
+  - 'westus3.in.applicationinsights.azure.com'
   - 'weus2watcab01.blob.core.windows.net'
   - 'weus2watcab02.blob.core.windows.net'
   - 'wifi.ads.oppomobile.com'
