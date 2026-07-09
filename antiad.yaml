@@ -1,4 +1,4 @@
-# Update Time: 2026-07-08 19:35:39 UTC
+# Update Time: 2026-07-09 19:49:13 UTC
 # Total Domains: 3020
 
 payload:
@@ -2695,7 +2695,6 @@ payload:
   - 'telemetry.visualstudio.microsoft.com'
   - 'telemetrycollector.microsoft.com'
   - 'temai.snssdk.com'
-  - 'tenmax-ads.trafficmanager.net'
   - 'test.ad.intl.xiaomi.com'
   - 'test.ad.xiaomi.com'
   - 'test.admin.xmpush.xiaomi.com'
@@ -2883,6 +2882,7 @@ payload:
   - 'usgovarizona-0.in.applicationinsights.azure.us'
   - 'usgovvirginia-0.in.applicationinsights.azure.us'
   - 'usgovvirginia-1.in.applicationinsights.azure.us'
+  - 'usgovvirginia-global.in.applicationinsights.azure.us'
   - 'utm.sankei.jp.msn.com'
   - 'v10-win.vortex.data.trafficmanager.net'
   - 'v10.events.data.microsoft.com'
