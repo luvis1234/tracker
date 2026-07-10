@@ -1,5 +1,5 @@
-# Update Time: 2026-07-09 19:49:13 UTC
-# Total Domains: 3020
+# Update Time: 2026-07-10 19:36:01 UTC
+# Total Domains: 3022
 
 payload:
   - '0001-metrics1-data-hicloud-com.geac.dbankedge.cn'
@@ -58,6 +58,7 @@ payload:
   - 'ad-instantpage.tiktokv.us'
   - 'ad-instantpage.tiktokv.us.edgesuite.net'
   - 'ad-instantpage.tiktokv.us.ttdns4.com'
+  - 'ad-union-i18n-api.tos-sg.tiktok-row.org'
   - 'ad.cdn.pandora.xiaomi.com'
   - 'ad.eu.xiaomi.com'
   - 'ad.india.xiaomi.com'
@@ -2049,6 +2050,7 @@ payload:
   - 'native.feedback.miui.com'
   - 'nav.browser.miui.com'
   - 'nav.sec.miui.com'
+  - 'nebula-collector.huawei.com'
   - 'nel.measure.office.net'
   - 'nel.measure.office.net.edgesuite.net'
   - 'nelsdf.measure.office.net'
