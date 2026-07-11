@@ -1,5 +1,5 @@
-# Update Time: 2026-07-10 19:36:01 UTC
-# Total Domains: 3022
+# Update Time: 2026-07-11 19:07:11 UTC
+# Total Domains: 3023
 
 payload:
   - '0001-metrics1-data-hicloud-com.geac.dbankedge.cn'
@@ -35,6 +35,8 @@ payload:
   - 'ad-bl.geoproximity.staging.rpay.roku.com'
   - 'ad-bl.prod.rpay.int.roku.com'
   - 'ad-bl.usw2.staging.rpay.int.roku.com'
+  - 'ad-drcn.media.dbankcloud.cn'
+  - 'ad-drcn.media.dbankcloud.ru'
   - 'ad-eng-bl.geoproximity.staging.rpay.roku.com'
   - 'ad-eng-bl.use1.prod.rpay.int.roku.com'
   - 'ad-eng-bl.usw2.prod.rpay.int.roku.com'
@@ -2884,7 +2886,6 @@ payload:
   - 'usgovarizona-0.in.applicationinsights.azure.us'
   - 'usgovvirginia-0.in.applicationinsights.azure.us'
   - 'usgovvirginia-1.in.applicationinsights.azure.us'
-  - 'usgovvirginia-global.in.applicationinsights.azure.us'
   - 'utm.sankei.jp.msn.com'
   - 'v10-win.vortex.data.trafficmanager.net'
   - 'v10.events.data.microsoft.com'
