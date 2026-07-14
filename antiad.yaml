@@ -1,5 +1,5 @@
-# Update Time: 2026-07-13 19:25:13 UTC
-# Total Domains: 3023
+# Update Time: 2026-07-14 19:22:42 UTC
+# Total Domains: 3026
 
 payload:
   - '0001-metrics1-data-hicloud-com.geac.dbankedge.cn'
@@ -48,6 +48,9 @@ payload:
   - 'ad-eng-pci.prod.rpay.int.roku.com'
   - 'ad-eng.prod.rpay.int.roku.com'
   - 'ad-eng.staging.rpay.int.roku.com'
+  - 'ad-growth-in.heytapmobile.com'
+  - 'ad-growth-ru.heytapmobile.com'
+  - 'ad-growth-sg.heytapmobile.com'
   - 'ad-instantpage-ru.tiktokv.com'
   - 'ad-instantpage-sg.tiktokv.com'
   - 'ad-instantpage-sg.tiktokv.com.edgekey.net'
