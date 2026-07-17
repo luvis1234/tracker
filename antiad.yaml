@@ -1,5 +1,5 @@
-# Update Time: 2026-07-16 19:14:56 UTC
-# Total Domains: 3026
+# Update Time: 2026-07-17 19:13:46 UTC
+# Total Domains: 3030
 
 payload:
   - '0001-metrics1-data-hicloud-com.geac.dbankedge.cn'
@@ -151,8 +151,10 @@ payload:
   - 'ads.tiktok.in'
   - 'ads.tiktok.tv'
   - 'ads.us.tiktok.com'
+  - 'ads1.msads.net'
   - 'ads1.msn.com'
   - 'ads16-normal-useastred.tiktokw.eu'
+  - 'ads2.msads.net'
   - 'adsdk.microsoft.com'
   - 'adsdk.trafficmanager.net'
   - 'adsdk.vivo.com.cn'
@@ -590,6 +592,7 @@ payload:
   - 'c3.api.xmpush.xiaomi.com'
   - 'c3mini.pandora.xiaomi.com'
   - 'ca-service.acr.roku.com'
+  - 'ca.acr.roku.com'
   - 'ca.iadsdk.apple.com'
   - 'cab.watson.microsoft.com'
   - 'cac-visio-telemetry.officeapps.live.com'
@@ -1229,6 +1232,8 @@ payload:
   - 'gui-server-us.allawnos.com'
   - 'guif-eu.coloros.com'
   - 'guif.coloros.com'
+  - 'h1.msn.com'
+  - 'h2.msn.com'
   - 'h4g3z1-native.apple.web.app'
   - 'h4g3z1-native.huawei.web.app'
   - 'h4g3z1-native.oppo-realme.web.app'
@@ -2231,12 +2236,8 @@ payload:
   - 'pgteu5-excel-telemetry-vip.officeapps.live.com'
   - 'pgteu5-powerpoint-telemetry-vip.officeapps.live.com'
   - 'pgteu5-word-telemetry-vip.officeapps.live.com'
-  - 'pgtmx1-excel-telemetry-vip.officeapps.live.com'
   - 'pgtmx1-powerpoint-telemetry-vip.officeapps.live.com'
   - 'pgtmx1-word-telemetry-vip.officeapps.live.com'
-  - 'pgtsg1-excel-telemetry-vip.officeapps.live.com'
-  - 'pgtsg1-powerpoint-telemetry-vip.officeapps.live.com'
-  - 'pgtsg1-word-telemetry-vip.officeapps.live.com'
   - 'pgtus1-excel-telemetry-vip.officeapps.live.com'
   - 'pgtus1-powerpoint-telemetry-vip.officeapps.live.com'
   - 'pgtus1-word-telemetry-vip.officeapps.live.com'
@@ -2364,6 +2365,7 @@ payload:
   - 'rt.applicationinsights.microsoft.com'
   - 'rtc-logger-i18n.tiktokv.com'
   - 'rtc-logger-ie.tiktokv.eu'
+  - 'rtc-logger-ttp2.tiktokv.us'
   - 'rtc-logger-ttp2.us.tiktokv.com'
   - 'rtc-logger-va.tiktokv.com'
   - 'rtc-logger.tiktokv.com'
@@ -2860,6 +2862,7 @@ payload:
   - 'url2696.ads.tiktok.com'
   - 'us-east4.ads.gcp.roku.com'
   - 'us-east4.dev.ads.gcp.roku.com'
+  - 'us-ic3.events.data.microsoft.com'
   - 'us-mesh-events-data-leafs.trafficmanager.net'
   - 'us-mesh.events.data.microsoft.com'
   - 'us-mobile.events.data.microsoft.com'
@@ -2979,6 +2982,7 @@ payload:
   - 'www.kuyun.com'
   - 'www.measure.office.com'
   - 'www.miui.net'
+  - 'www.msads.net'
   - 'www.qwapi.com'
   - 'www.ravm.tv'
   - 'www.telecommandsvc.microsoft.com'
