@@ -1,5 +1,5 @@
-# Update Time: 2026-07-19 19:09:15 UTC
-# Total Domains: 3030
+# Update Time: 2026-07-20 19:45:32 UTC
+# Total Domains: 3031
 
 payload:
   - '0001-metrics1-data-hicloud-com.geac.dbankedge.cn'
@@ -48,6 +48,7 @@ payload:
   - 'ad-eng-pci.prod.rpay.int.roku.com'
   - 'ad-eng.prod.rpay.int.roku.com'
   - 'ad-eng.staging.rpay.int.roku.com'
+  - 'ad-format-sg.tiktokv.com'
   - 'ad-growth-in.heytapmobile.com'
   - 'ad-growth-ru.heytapmobile.com'
   - 'ad-growth-sg.heytapmobile.com'
@@ -115,6 +116,7 @@ payload:
   - 'ads-cf-us-east-1.delivery.roku.com'
   - 'ads-cf-us-east-1.dev.delivery.roku.com'
   - 'ads-cf-us-west-2.delivery.roku.com'
+  - 'ads-dra.platform.hihonorcloud.com'
   - 'ads-drcn.platform.hihonorcloud.com'
   - 'ads-dre.platform.hihonorcloud.com'
   - 'ads-drru.cloud.huawei.ru'
@@ -2365,7 +2367,6 @@ payload:
   - 'rt.applicationinsights.microsoft.com'
   - 'rtc-logger-i18n.tiktokv.com'
   - 'rtc-logger-ie.tiktokv.eu'
-  - 'rtc-logger-ttp2.tiktokv.us'
   - 'rtc-logger-ttp2.us.tiktokv.com'
   - 'rtc-logger-va.tiktokv.com'
   - 'rtc-logger.tiktokv.com'
