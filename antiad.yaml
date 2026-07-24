@@ -1,4 +1,4 @@
-# Update Time: 2026-07-23 19:21:11 UTC
+# Update Time: 2026-07-24 19:27:15 UTC
 # Total Domains: 3031
 
 payload:
@@ -1570,6 +1570,7 @@ payload:
   - 'log19-normal-alisg.tiktokv.com'
   - 'log19-normal-useast1a.tiktokv.com'
   - 'log19-normal-useast2a.tiktokv.com'
+  - 'log19-normal-useast8.tiktokv.us'
   - 'log19-normal.tiktokv.com'
   - 'log22-applog-useast1a.tiktokv.com'
   - 'log22-applog-useast2a.tiktokv.com'
@@ -2665,7 +2666,6 @@ payload:
   - 't-ring-trafficshield.msedge.net'
   - 't-ring.msedge.net'
   - 't-s1-ring.msedge.net'
-  - 't-s2-ring.msedge.net'
   - 't.app.xiaomi.com'
   - 't.track.ad.xiaomi.com'
   - 't1.a.market.xiaomi.com'
@@ -2700,7 +2700,6 @@ payload:
   - 'telemetry.eastus.trafficmanager.net'
   - 'telemetry.microsoft.com'
   - 'telemetry.microsoft.us'
-  - 'telemetry.officeapps.live.com'
   - 'telemetry.urs.microsoft.com'
   - 'telemetry.visualstudio.microsoft.com'
   - 'telemetrycollector.microsoft.com'
@@ -2975,6 +2974,7 @@ payload:
   - 'word-telemetry.wac.trafficmanager.net'
   - 'wordonline.nel.measure.office.net'
   - 'wtradv.market.xiaomi.com'
+  - 'wttwebsiteprodapi-liveevents.trafficmanager.net'
   - 'www.advertise.bingads.microsoft.com'
   - 'www.bingads.microsoft.com'
   - 'www.c.bing.com'
