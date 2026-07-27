@@ -1,5 +1,5 @@
-# Update Time: 2026-07-26 19:14:17 UTC
-# Total Domains: 3032
+# Update Time: 2026-07-27 19:36:45 UTC
+# Total Domains: 3031
 
 payload:
   - '0001-metrics1-data-hicloud-com.geac.dbankedge.cn'
@@ -1461,6 +1461,7 @@ payload:
   - 'kz-st-sl.vivoglobal.com'
   - 'kz-st-sysupgrade.vivoglobal.com'
   - 'kz-stsdk.vivoglobal.com'
+  - 'kz-vcode-api.vivoglobal.com'
   - 'kz-vcode-od.vivoglobal.com'
   - 'kz-vcode-or.vivoglobal.com'
   - 'l4.tb.events.data.trafficmanager.net'
@@ -1570,7 +1571,6 @@ payload:
   - 'log19-normal-alisg.tiktokv.com'
   - 'log19-normal-useast1a.tiktokv.com'
   - 'log19-normal-useast2a.tiktokv.com'
-  - 'log19-normal-useast8.tiktokv.us'
   - 'log19-normal.tiktokv.com'
   - 'log22-applog-useast1a.tiktokv.com'
   - 'log22-applog-useast2a.tiktokv.com'
@@ -2271,6 +2271,7 @@ payload:
   - 'pnrt-stsdk.vivoglobal.com'
   - 'pnrt.stsdk.vivoglobal.com'
   - 'podcasts-analytics-events.apple.com'
+  - 'polandcentral-0.in.applicationinsights.azure.com'
   - 'popup.msn.com'
   - 'port.sec.intl.miui.com'
   - 'port.sec.miui.com'
@@ -2863,7 +2864,6 @@ payload:
   - 'url2696.ads.tiktok.com'
   - 'us-east4.ads.gcp.roku.com'
   - 'us-east4.dev.ads.gcp.roku.com'
-  - 'us-ic3.events.data.microsoft.com'
   - 'us-mesh-events-data-leafs.trafficmanager.net'
   - 'us-mesh.events.data.microsoft.com'
   - 'us-mobile.events.data.microsoft.com'
@@ -2963,7 +2963,6 @@ payload:
   - 'westus2-5.in.applicationinsights.azure.com'
   - 'westus2-global.in.applicationinsights.azure.com'
   - 'westus3-1.in.applicationinsights.azure.com'
-  - 'westus3.in.applicationinsights.azure.com'
   - 'weus2watcab01.blob.core.windows.net'
   - 'weus2watcab02.blob.core.windows.net'
   - 'wifi.ads.oppomobile.com'
